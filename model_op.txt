@@ -1,0 +1,11 @@
+Decision tree 
+Mean:  4.244485294640837
+Standard deviation:  0.7950376264555826
+
+Linear Regression
+Mean:  5.030437102767306
+Standard deviation:  1.0607661158294843
+
+Random Forest
+Mean:  3.3590129236780797
+Standard deviation:  0.7200687643502566
